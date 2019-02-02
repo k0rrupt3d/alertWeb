@@ -1,2 +1,2 @@
 # alertWeb
-Basic script that scrapes a website for a specific keyword and emails you when that word is found.
+Script that scrapes a website for a specific keyword and emails a specified address using SMTP Protocol client. Can be started from directly from the terminal.
